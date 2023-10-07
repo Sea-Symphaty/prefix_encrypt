@@ -1,0 +1,7 @@
+name: example
+environment:
+  sdk: '>=3.1.1 <4.0.0'
+
+dependencies:
+  prefix_encrypt:
+    path: '..'
