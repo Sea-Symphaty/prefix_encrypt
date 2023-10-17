@@ -1,6 +1,6 @@
 name: prefix_encrypt
 description: This dart package allows easy encryption of text using AEAD XChaCha20 Poly1305 and XChaCha20.
-version: 1.0.6
+version: 1.0.7
 homepage: https://github.com/Sea-Symphaty/prefix_encrypt
 
 environment:
