@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  dartdoc: ^6.3.0
+  dartdoc: ^7.0.0
   http: ^1.1.0
 
 dev_dependencies:

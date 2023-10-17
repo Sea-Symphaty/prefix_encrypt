@@ -1,6 +1,6 @@
 ## 1.0.6
 
-* added Badge
+* added Badge, update dartdoc
 
 ## 1.0.5
 
